@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     actionmailer (3.2.13)
       actionpack (= 3.2.13)
@@ -54,8 +54,6 @@ GEM
     mime-types (1.21)
     minitest (4.6.2)
     multi_json (1.7.1)
-    mysql2 (0.3.11)
-    mysql2 (0.3.11-x86-mingw32)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)

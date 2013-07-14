@@ -1,4 +1,4 @@
-Test2::Application.routes.draw do
+RailsApp::Application.routes.draw do
   resources :students
 
 
